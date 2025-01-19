@@ -22,3 +22,19 @@
 2025-01-18 01:54:15 INFO  TC002_LoginTest:20 - Clicked acount Icon
 2025-01-18 01:54:15 INFO  TC002_LoginTest:26 - entered emial and Password Icon
 2025-01-18 01:54:16 INFO  TC002_LoginTest:41 - Test Passed
+2025-01-18 15:17:38 DEBUG TestNG:82 - suiteXmlPath: "/Users/krishnaloka/eclipse-workspace/NewFrameWork1/master.xml"
+2025-01-18 15:18:16 INFO  TC001_AccountRegistrationTest:23 - this test case started
+2025-01-18 15:18:18 INFO  TC001_AccountRegistrationTest:30 - Customer deatails being entered
+2025-01-18 15:18:20 INFO  TC001_AccountRegistrationTest:44 - Validation expected text
+2025-01-18 15:18:20 INFO  TC001_AccountRegistrationTest:69 - Test Finished
+2025-01-18 15:18:27 INFO  TC002_LoginTest:20 - Clicked acount Icon
+2025-01-18 15:18:29 INFO  TC002_LoginTest:26 - entered emial and Password Icon
+2025-01-18 15:18:30 INFO  TC002_LoginTest:41 - Test Passed
+2025-01-18 15:22:16 DEBUG TestNG:82 - suiteXmlPath: "/Users/krishnaloka/eclipse-workspace/NewFrameWork1/master.xml"
+2025-01-18 15:22:20 INFO  TC001_AccountRegistrationTest:23 - this test case started
+2025-01-18 15:22:21 INFO  TC001_AccountRegistrationTest:30 - Customer deatails being entered
+2025-01-18 15:22:22 INFO  TC001_AccountRegistrationTest:44 - Validation expected text
+2025-01-18 15:22:22 INFO  TC001_AccountRegistrationTest:69 - Test Finished
+2025-01-18 15:22:24 INFO  TC002_LoginTest:20 - Clicked acount Icon
+2025-01-18 15:22:24 INFO  TC002_LoginTest:26 - entered emial and Password Icon
+2025-01-18 15:22:25 INFO  TC002_LoginTest:41 - Test Passed
